@@ -1,2 +1,7 @@
 # austroanalytics.github.io
-Analyzing sports statistics to find edges
+# Austro Analytics
+
+Welcome to my sports analytics portfolio.  
+This site showcases my NCAA Rebound Mismatch Model, Tableau dashboards, and Python backtesting engine.
+
+More coming soon.
